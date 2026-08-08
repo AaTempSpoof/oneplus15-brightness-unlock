@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <version>20260808</version>
+    <uir_config>
+        <!-- Disable the foreground-app UIR dimming policy. -->
+        <uir_enable>0</uir_enable>
+        <brightness_nit_limit>800</brightness_nit_limit>
+        <temperature_limit>40000</temperature_limit>
+        <max_ratio>200</max_ratio>
+        <app_list>
+            <app>com.coloros.gallery3d</app>
+            <app>com.oneplus.gallery</app>
+            <app>com.baidu.BaiduMap</app>
+            <app>com.autonavi.minimap</app>
+            <app>com.tencent.map</app>
+            <app>com.google.android.apps.maps</app>
+            <app>com.tencent.mm</app>
+            <app>com.whatsapp</app>
+            <app>com.android.contacts</app>
+            <app>com.android.mms</app>
+            <app>com.tencent.mobileqq</app>
+            <app>com.google.android.dialer</app>
+            <app>com.google.android.apps.messaging</app>
+            <app>com.google.android.contacts</app>
+            <app>com.google.android.apps.photos</app>
+        </app_list>
+    </uir_config>
+</root>
